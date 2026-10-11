@@ -1,0 +1,24 @@
+# Rowby
+
+> Count rows without losing your place.
+
+Rowby: Crochet Row Counter — Knitting row counter & ruler. iPhone app, available on the App Store: https://apps.apple.com/app/id6815129271?ct=ai_web
+
+## Guides
+
+- [How to Count Rounds and Repeats When Making Amigurumi](https://jjjulietttee-jpg.github.io/rowby-app/how-to-count-rounds-and-repeats-for-amigurumi): Count amigurumi rounds, increases and repeats without arithmetic: linked repeat counters, targets and row reminders on iPhone.
+- [How to Count Rows While Crocheting on iPhone (Best Row Counter App)](https://jjjulietttee-jpg.github.io/rowby-app/how-to-count-rows-while-crocheting-on-iphone): The easiest way to count crochet rows on iPhone: a big tap pad, a ruler that follows your pattern, and hands-free voice counting. Honest comparison with other row counter apps.
+- [How to Keep Your Place in a Crochet or Knitting Pattern PDF on iPhone](https://jjjulietttee-jpg.github.io/rowby-app/keep-your-place-in-a-crochet-pattern-pdf-on-iphone): Stop losing your row in a PDF pattern: put the pattern and a counter on one screen, with a ruler that moves down the page. Steps, FAQ and an honest app comparison.
+- [knitCompanion Alternatives for iPhone: Cheaper Row Counter Apps](https://jjjulietttee-jpg.github.io/rowby-app/knitcompanion-alternative-for-iphone): Looking for a cheaper alternative to knitCompanion on iPhone? Honest comparison of StitchTally, Stitch Keeper, Rowby and knitCompanion: prices, sync, pattern tools.
+- [Voice-Controlled Row Counter for Knitting and Crochet on iPhone](https://jjjulietttee-jpg.github.io/rowby-app/voice-controlled-row-counter-for-knitting-and-crochet): Count rows hands-free while knitting or crocheting: say next, back or undo. How voice counting works on iPhone, what it needs, and how Rowby compares.
+
+## App
+
+- [Home](https://jjjulietttee-jpg.github.io/rowby-app/): what Rowby does, features, pricing
+- [App Store](https://apps.apple.com/app/id6815129271?ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://jjjulietttee-jpg.github.io/rowby-app/privacy)
+- [Support](https://jjjulietttee-jpg.github.io/rowby-app/support)
+- [Terms](https://jjjulietttee-jpg.github.io/rowby-app/terms)
