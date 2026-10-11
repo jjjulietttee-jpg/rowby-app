@@ -2,7 +2,7 @@
 
 > Count rows without losing your place.
 
-Rowby: Crochet Row Counter — Knitting row counter & ruler. iPhone app, available on the App Store: https://apps.apple.com/app/id6815129271?ct=ai_web
+Rowby: Crochet Row Counter — Knitting row counter & ruler. iPhone app, available on the App Store: https://apps.apple.com/app/id6815129271?pt=128839649&ct=ai_web
 
 ## Guides
 
@@ -15,7 +15,7 @@ Rowby: Crochet Row Counter — Knitting row counter & ruler. iPhone app, availab
 ## App
 
 - [Home](https://jjjulietttee-jpg.github.io/rowby-app/): what Rowby does, features, pricing
-- [App Store](https://apps.apple.com/app/id6815129271?ct=ai_web): download, screenshots, reviews
+- [App Store](https://apps.apple.com/app/id6815129271?pt=128839649&ct=ai_web): download, screenshots, reviews
 
 ## Optional
 
